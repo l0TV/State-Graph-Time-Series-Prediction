@@ -1,0 +1,198 @@
+[2024-02-13 16:27:01,643][trainer.py][line:83][INFO] -----Start training-----
+[2024-02-13 16:27:17,756][trainer.py][line:146][INFO] Epoch:[1/100]	 Train loss=0.3208865	 Vali Loss=0.0931701	 Cost time=16.1
+[2024-02-13 16:27:33,151][trainer.py][line:146][INFO] Epoch:[2/100]	 Train loss=0.1058576	 Vali Loss=0.1084924	 Cost time=15.4
+[2024-02-13 16:27:33,151][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:27:48,298][trainer.py][line:146][INFO] Epoch:[3/100]	 Train loss=0.1118334	 Vali Loss=0.0944710	 Cost time=15.1
+[2024-02-13 16:27:48,298][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:28:03,444][trainer.py][line:146][INFO] Epoch:[4/100]	 Train loss=0.1028185	 Vali Loss=0.1386133	 Cost time=15.1
+[2024-02-13 16:28:03,467][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:28:18,628][trainer.py][line:146][INFO] Epoch:[5/100]	 Train loss=0.0954598	 Vali Loss=0.0786442	 Cost time=15.2
+[2024-02-13 16:28:34,091][trainer.py][line:146][INFO] Epoch:[6/100]	 Train loss=0.0844964	 Vali Loss=0.0946351	 Cost time=15.4
+[2024-02-13 16:28:34,091][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:28:49,250][trainer.py][line:146][INFO] Epoch:[7/100]	 Train loss=0.1071867	 Vali Loss=0.0794153	 Cost time=15.2
+[2024-02-13 16:28:49,250][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:29:04,502][trainer.py][line:146][INFO] Epoch:[8/100]	 Train loss=0.1038338	 Vali Loss=0.0882318	 Cost time=15.3
+[2024-02-13 16:29:04,502][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:29:19,776][trainer.py][line:146][INFO] Epoch:[9/100]	 Train loss=0.1176595	 Vali Loss=0.1132661	 Cost time=15.3
+[2024-02-13 16:29:19,776][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:29:35,327][trainer.py][line:146][INFO] Epoch:[10/100]	 Train loss=0.0935344	 Vali Loss=0.0747125	 Cost time=15.6
+[2024-02-13 16:29:50,523][trainer.py][line:146][INFO] Epoch:[11/100]	 Train loss=0.0641580	 Vali Loss=0.0781099	 Cost time=15.2
+[2024-02-13 16:29:50,524][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:30:05,699][trainer.py][line:146][INFO] Epoch:[12/100]	 Train loss=0.0741951	 Vali Loss=0.0739204	 Cost time=15.2
+[2024-02-13 16:30:21,807][trainer.py][line:146][INFO] Epoch:[13/100]	 Train loss=0.0692759	 Vali Loss=0.0791400	 Cost time=16.1
+[2024-02-13 16:30:21,807][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:30:37,302][trainer.py][line:146][INFO] Epoch:[14/100]	 Train loss=0.0647235	 Vali Loss=0.0759361	 Cost time=15.5
+[2024-02-13 16:30:37,302][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:30:52,619][trainer.py][line:146][INFO] Epoch:[15/100]	 Train loss=0.0965853	 Vali Loss=0.2088729	 Cost time=15.3
+[2024-02-13 16:30:52,619][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:31:08,595][trainer.py][line:146][INFO] Epoch:[16/100]	 Train loss=0.0749123	 Vali Loss=0.0725678	 Cost time=16.0
+[2024-02-13 16:31:26,060][trainer.py][line:146][INFO] Epoch:[17/100]	 Train loss=0.0826523	 Vali Loss=0.0975839	 Cost time=17.4
+[2024-02-13 16:31:26,060][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:31:42,395][trainer.py][line:146][INFO] Epoch:[18/100]	 Train loss=0.0713481	 Vali Loss=0.0715435	 Cost time=16.3
+[2024-02-13 16:31:59,970][trainer.py][line:146][INFO] Epoch:[19/100]	 Train loss=0.0706850	 Vali Loss=0.0748410	 Cost time=17.6
+[2024-02-13 16:31:59,970][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:32:15,984][trainer.py][line:146][INFO] Epoch:[20/100]	 Train loss=0.0736119	 Vali Loss=0.0780947	 Cost time=16.0
+[2024-02-13 16:32:15,984][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:32:32,106][trainer.py][line:146][INFO] Epoch:[21/100]	 Train loss=0.0567200	 Vali Loss=0.0694590	 Cost time=16.1
+[2024-02-13 16:32:48,238][trainer.py][line:146][INFO] Epoch:[22/100]	 Train loss=0.0548092	 Vali Loss=0.0740465	 Cost time=16.1
+[2024-02-13 16:32:48,238][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:33:04,576][trainer.py][line:146][INFO] Epoch:[23/100]	 Train loss=0.0579826	 Vali Loss=0.0716580	 Cost time=16.3
+[2024-02-13 16:33:04,576][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:33:20,660][trainer.py][line:146][INFO] Epoch:[24/100]	 Train loss=0.0630037	 Vali Loss=0.0720960	 Cost time=16.1
+[2024-02-13 16:33:20,660][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:33:36,616][trainer.py][line:146][INFO] Epoch:[25/100]	 Train loss=0.0669762	 Vali Loss=0.0756745	 Cost time=16.0
+[2024-02-13 16:33:36,616][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:33:52,614][trainer.py][line:146][INFO] Epoch:[26/100]	 Train loss=0.0631157	 Vali Loss=0.0698047	 Cost time=16.0
+[2024-02-13 16:33:52,614][utils.py][line:105][INFO] EarlyStopping counter: 5 out of 100
+[2024-02-13 16:34:08,912][trainer.py][line:146][INFO] Epoch:[27/100]	 Train loss=0.0550683	 Vali Loss=0.0702562	 Cost time=16.3
+[2024-02-13 16:34:08,913][utils.py][line:105][INFO] EarlyStopping counter: 6 out of 100
+[2024-02-13 16:34:24,915][trainer.py][line:146][INFO] Epoch:[28/100]	 Train loss=0.0581503	 Vali Loss=0.0776275	 Cost time=16.0
+[2024-02-13 16:34:24,915][utils.py][line:105][INFO] EarlyStopping counter: 7 out of 100
+[2024-02-13 16:34:41,099][trainer.py][line:146][INFO] Epoch:[29/100]	 Train loss=0.0561270	 Vali Loss=0.0709069	 Cost time=16.2
+[2024-02-13 16:34:41,099][utils.py][line:105][INFO] EarlyStopping counter: 8 out of 100
+[2024-02-13 16:34:56,751][trainer.py][line:146][INFO] Epoch:[30/100]	 Train loss=0.0634746	 Vali Loss=0.0873450	 Cost time=15.7
+[2024-02-13 16:34:56,751][utils.py][line:105][INFO] EarlyStopping counter: 9 out of 100
+[2024-02-13 16:35:12,553][trainer.py][line:146][INFO] Epoch:[31/100]	 Train loss=0.0564832	 Vali Loss=0.0846458	 Cost time=15.8
+[2024-02-13 16:35:12,553][utils.py][line:105][INFO] EarlyStopping counter: 10 out of 100
+[2024-02-13 16:35:28,355][trainer.py][line:146][INFO] Epoch:[32/100]	 Train loss=0.0544046	 Vali Loss=0.0722343	 Cost time=15.8
+[2024-02-13 16:35:28,355][utils.py][line:105][INFO] EarlyStopping counter: 11 out of 100
+[2024-02-13 16:35:44,047][trainer.py][line:146][INFO] Epoch:[33/100]	 Train loss=0.0525686	 Vali Loss=0.0709333	 Cost time=15.7
+[2024-02-13 16:35:44,047][utils.py][line:105][INFO] EarlyStopping counter: 12 out of 100
+[2024-02-13 16:35:59,564][trainer.py][line:146][INFO] Epoch:[34/100]	 Train loss=0.0535474	 Vali Loss=0.0739410	 Cost time=15.5
+[2024-02-13 16:35:59,565][utils.py][line:105][INFO] EarlyStopping counter: 13 out of 100
+[2024-02-13 16:36:16,818][trainer.py][line:146][INFO] Epoch:[35/100]	 Train loss=0.0528828	 Vali Loss=0.0690439	 Cost time=17.3
+[2024-02-13 16:36:34,733][trainer.py][line:146][INFO] Epoch:[36/100]	 Train loss=0.0527653	 Vali Loss=0.0694668	 Cost time=17.9
+[2024-02-13 16:36:34,734][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:36:52,658][trainer.py][line:146][INFO] Epoch:[37/100]	 Train loss=0.0522967	 Vali Loss=0.0743465	 Cost time=17.9
+[2024-02-13 16:36:52,658][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:37:10,444][trainer.py][line:146][INFO] Epoch:[38/100]	 Train loss=0.0518939	 Vali Loss=0.0683769	 Cost time=17.8
+[2024-02-13 16:37:28,567][trainer.py][line:146][INFO] Epoch:[39/100]	 Train loss=0.0528112	 Vali Loss=0.0710841	 Cost time=18.1
+[2024-02-13 16:37:28,567][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:37:47,082][trainer.py][line:146][INFO] Epoch:[40/100]	 Train loss=0.0546792	 Vali Loss=0.0759938	 Cost time=18.5
+[2024-02-13 16:37:47,082][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:38:04,719][trainer.py][line:146][INFO] Epoch:[41/100]	 Train loss=0.0492976	 Vali Loss=0.0685958	 Cost time=17.6
+[2024-02-13 16:38:04,719][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:38:22,585][trainer.py][line:146][INFO] Epoch:[42/100]	 Train loss=0.0479338	 Vali Loss=0.0677040	 Cost time=17.9
+[2024-02-13 16:38:40,362][trainer.py][line:146][INFO] Epoch:[43/100]	 Train loss=0.0492256	 Vali Loss=0.0684608	 Cost time=17.8
+[2024-02-13 16:38:40,363][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:38:57,955][trainer.py][line:146][INFO] Epoch:[44/100]	 Train loss=0.0487571	 Vali Loss=0.0722536	 Cost time=17.6
+[2024-02-13 16:38:57,955][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:39:15,572][trainer.py][line:146][INFO] Epoch:[45/100]	 Train loss=0.0484895	 Vali Loss=0.0714547	 Cost time=17.6
+[2024-02-13 16:39:15,572][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:39:33,504][trainer.py][line:146][INFO] Epoch:[46/100]	 Train loss=0.0491235	 Vali Loss=0.0682492	 Cost time=17.9
+[2024-02-13 16:39:33,504][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:39:51,123][trainer.py][line:146][INFO] Epoch:[47/100]	 Train loss=0.0468369	 Vali Loss=0.0695896	 Cost time=17.6
+[2024-02-13 16:39:51,124][utils.py][line:105][INFO] EarlyStopping counter: 5 out of 100
+[2024-02-13 16:40:08,705][trainer.py][line:146][INFO] Epoch:[48/100]	 Train loss=0.0474505	 Vali Loss=0.0691738	 Cost time=17.6
+[2024-02-13 16:40:08,705][utils.py][line:105][INFO] EarlyStopping counter: 6 out of 100
+[2024-02-13 16:40:26,336][trainer.py][line:146][INFO] Epoch:[49/100]	 Train loss=0.0479741	 Vali Loss=0.0715634	 Cost time=17.6
+[2024-02-13 16:40:26,336][utils.py][line:105][INFO] EarlyStopping counter: 7 out of 100
+[2024-02-13 16:40:44,163][trainer.py][line:146][INFO] Epoch:[50/100]	 Train loss=0.0491737	 Vali Loss=0.0742365	 Cost time=17.8
+[2024-02-13 16:40:44,163][utils.py][line:105][INFO] EarlyStopping counter: 8 out of 100
+[2024-02-13 16:41:01,774][trainer.py][line:146][INFO] Epoch:[51/100]	 Train loss=0.0463813	 Vali Loss=0.0692016	 Cost time=17.6
+[2024-02-13 16:41:01,775][utils.py][line:105][INFO] EarlyStopping counter: 9 out of 100
+[2024-02-13 16:41:19,318][trainer.py][line:146][INFO] Epoch:[52/100]	 Train loss=0.0451625	 Vali Loss=0.0691602	 Cost time=17.5
+[2024-02-13 16:41:19,318][utils.py][line:105][INFO] EarlyStopping counter: 10 out of 100
+[2024-02-13 16:41:37,382][trainer.py][line:146][INFO] Epoch:[53/100]	 Train loss=0.0460307	 Vali Loss=0.0670882	 Cost time=18.1
+[2024-02-13 16:41:55,472][trainer.py][line:146][INFO] Epoch:[54/100]	 Train loss=0.0480026	 Vali Loss=0.0672280	 Cost time=18.1
+[2024-02-13 16:41:55,473][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:42:13,093][trainer.py][line:146][INFO] Epoch:[55/100]	 Train loss=0.0471995	 Vali Loss=0.0674522	 Cost time=17.6
+[2024-02-13 16:42:13,093][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:42:30,670][trainer.py][line:146][INFO] Epoch:[56/100]	 Train loss=0.0455751	 Vali Loss=0.0679946	 Cost time=17.6
+[2024-02-13 16:42:30,670][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:42:48,476][trainer.py][line:146][INFO] Epoch:[57/100]	 Train loss=0.0457918	 Vali Loss=0.0687964	 Cost time=17.8
+[2024-02-13 16:42:48,477][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:43:08,014][trainer.py][line:146][INFO] Epoch:[58/100]	 Train loss=0.0447516	 Vali Loss=0.0676252	 Cost time=19.5
+[2024-02-13 16:43:08,014][utils.py][line:105][INFO] EarlyStopping counter: 5 out of 100
+[2024-02-13 16:43:25,167][trainer.py][line:146][INFO] Epoch:[59/100]	 Train loss=0.0447149	 Vali Loss=0.0688382	 Cost time=17.2
+[2024-02-13 16:43:25,167][utils.py][line:105][INFO] EarlyStopping counter: 6 out of 100
+[2024-02-13 16:43:42,833][trainer.py][line:146][INFO] Epoch:[60/100]	 Train loss=0.0460242	 Vali Loss=0.0669948	 Cost time=17.7
+[2024-02-13 16:44:00,869][trainer.py][line:146][INFO] Epoch:[61/100]	 Train loss=0.0442870	 Vali Loss=0.0692944	 Cost time=18.0
+[2024-02-13 16:44:00,870][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:44:16,705][trainer.py][line:146][INFO] Epoch:[62/100]	 Train loss=0.0443235	 Vali Loss=0.0671452	 Cost time=15.8
+[2024-02-13 16:44:16,705][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:44:32,580][trainer.py][line:146][INFO] Epoch:[63/100]	 Train loss=0.0441918	 Vali Loss=0.0681345	 Cost time=15.9
+[2024-02-13 16:44:32,580][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:44:48,160][trainer.py][line:146][INFO] Epoch:[64/100]	 Train loss=0.0442287	 Vali Loss=0.0673910	 Cost time=15.6
+[2024-02-13 16:44:48,160][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:45:05,062][trainer.py][line:146][INFO] Epoch:[65/100]	 Train loss=0.0444920	 Vali Loss=0.0669505	 Cost time=16.9
+[2024-02-13 16:45:21,110][trainer.py][line:146][INFO] Epoch:[66/100]	 Train loss=0.0442017	 Vali Loss=0.0678513	 Cost time=16.0
+[2024-02-13 16:45:21,110][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:45:37,002][trainer.py][line:146][INFO] Epoch:[67/100]	 Train loss=0.0439434	 Vali Loss=0.0672124	 Cost time=15.9
+[2024-02-13 16:45:37,003][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:45:52,994][trainer.py][line:146][INFO] Epoch:[68/100]	 Train loss=0.0438460	 Vali Loss=0.0677128	 Cost time=16.0
+[2024-02-13 16:45:52,994][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:46:09,148][trainer.py][line:146][INFO] Epoch:[69/100]	 Train loss=0.0444384	 Vali Loss=0.0669630	 Cost time=16.2
+[2024-02-13 16:46:09,148][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:46:25,050][trainer.py][line:146][INFO] Epoch:[70/100]	 Train loss=0.0441918	 Vali Loss=0.0671661	 Cost time=15.9
+[2024-02-13 16:46:25,050][utils.py][line:105][INFO] EarlyStopping counter: 5 out of 100
+[2024-02-13 16:46:40,805][trainer.py][line:146][INFO] Epoch:[71/100]	 Train loss=0.0435443	 Vali Loss=0.0667915	 Cost time=15.8
+[2024-02-13 16:46:56,432][trainer.py][line:146][INFO] Epoch:[72/100]	 Train loss=0.0434300	 Vali Loss=0.0674141	 Cost time=15.6
+[2024-02-13 16:46:56,433][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:47:12,189][trainer.py][line:146][INFO] Epoch:[73/100]	 Train loss=0.0434496	 Vali Loss=0.0671603	 Cost time=15.8
+[2024-02-13 16:47:12,189][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:47:27,727][trainer.py][line:146][INFO] Epoch:[74/100]	 Train loss=0.0433206	 Vali Loss=0.0672210	 Cost time=15.5
+[2024-02-13 16:47:27,727][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:47:43,255][trainer.py][line:146][INFO] Epoch:[75/100]	 Train loss=0.0433824	 Vali Loss=0.0668623	 Cost time=15.5
+[2024-02-13 16:47:43,255][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:47:58,773][trainer.py][line:146][INFO] Epoch:[76/100]	 Train loss=0.0434023	 Vali Loss=0.0677027	 Cost time=15.5
+[2024-02-13 16:47:58,773][utils.py][line:105][INFO] EarlyStopping counter: 5 out of 100
+[2024-02-13 16:48:14,390][trainer.py][line:146][INFO] Epoch:[77/100]	 Train loss=0.0433189	 Vali Loss=0.0671121	 Cost time=15.6
+[2024-02-13 16:48:14,390][utils.py][line:105][INFO] EarlyStopping counter: 6 out of 100
+[2024-02-13 16:48:30,027][trainer.py][line:146][INFO] Epoch:[78/100]	 Train loss=0.0431779	 Vali Loss=0.0672947	 Cost time=15.6
+[2024-02-13 16:48:30,027][utils.py][line:105][INFO] EarlyStopping counter: 7 out of 100
+[2024-02-13 16:48:46,313][trainer.py][line:146][INFO] Epoch:[79/100]	 Train loss=0.0435663	 Vali Loss=0.0672061	 Cost time=16.3
+[2024-02-13 16:48:46,313][utils.py][line:105][INFO] EarlyStopping counter: 8 out of 100
+[2024-02-13 16:49:02,428][trainer.py][line:146][INFO] Epoch:[80/100]	 Train loss=0.0435733	 Vali Loss=0.0667706	 Cost time=16.1
+[2024-02-13 16:49:18,574][trainer.py][line:146][INFO] Epoch:[81/100]	 Train loss=0.0431410	 Vali Loss=0.0669245	 Cost time=16.1
+[2024-02-13 16:49:18,574][utils.py][line:105][INFO] EarlyStopping counter: 1 out of 100
+[2024-02-13 16:49:35,283][trainer.py][line:146][INFO] Epoch:[82/100]	 Train loss=0.0430222	 Vali Loss=0.0669598	 Cost time=16.7
+[2024-02-13 16:49:35,283][utils.py][line:105][INFO] EarlyStopping counter: 2 out of 100
+[2024-02-13 16:49:50,951][trainer.py][line:146][INFO] Epoch:[83/100]	 Train loss=0.0430079	 Vali Loss=0.0669308	 Cost time=15.7
+[2024-02-13 16:49:50,951][utils.py][line:105][INFO] EarlyStopping counter: 3 out of 100
+[2024-02-13 16:50:07,204][trainer.py][line:146][INFO] Epoch:[84/100]	 Train loss=0.0431307	 Vali Loss=0.0668059	 Cost time=16.3
+[2024-02-13 16:50:07,204][utils.py][line:105][INFO] EarlyStopping counter: 4 out of 100
+[2024-02-13 16:50:22,722][trainer.py][line:146][INFO] Epoch:[85/100]	 Train loss=0.0430702	 Vali Loss=0.0669144	 Cost time=15.5
+[2024-02-13 16:50:22,722][utils.py][line:105][INFO] EarlyStopping counter: 5 out of 100
+[2024-02-13 16:50:38,006][trainer.py][line:146][INFO] Epoch:[86/100]	 Train loss=0.0430227	 Vali Loss=0.0668954	 Cost time=15.3
+[2024-02-13 16:50:38,006][utils.py][line:105][INFO] EarlyStopping counter: 6 out of 100
+[2024-02-13 16:50:52,936][trainer.py][line:146][INFO] Epoch:[87/100]	 Train loss=0.0430794	 Vali Loss=0.0670128	 Cost time=14.9
+[2024-02-13 16:50:52,936][utils.py][line:105][INFO] EarlyStopping counter: 7 out of 100
+[2024-02-13 16:51:07,852][trainer.py][line:146][INFO] Epoch:[88/100]	 Train loss=0.0429862	 Vali Loss=0.0667751	 Cost time=14.9
+[2024-02-13 16:51:07,852][utils.py][line:105][INFO] EarlyStopping counter: 8 out of 100
+[2024-02-13 16:51:22,751][trainer.py][line:146][INFO] Epoch:[89/100]	 Train loss=0.0430221	 Vali Loss=0.0672703	 Cost time=14.9
+[2024-02-13 16:51:22,751][utils.py][line:105][INFO] EarlyStopping counter: 9 out of 100
+[2024-02-13 16:51:37,829][trainer.py][line:146][INFO] Epoch:[90/100]	 Train loss=0.0430473	 Vali Loss=0.0670933	 Cost time=15.1
+[2024-02-13 16:51:37,829][utils.py][line:105][INFO] EarlyStopping counter: 10 out of 100
+[2024-02-13 16:51:52,728][trainer.py][line:146][INFO] Epoch:[91/100]	 Train loss=0.0428876	 Vali Loss=0.0668825	 Cost time=14.9
+[2024-02-13 16:51:52,728][utils.py][line:105][INFO] EarlyStopping counter: 11 out of 100
+[2024-02-13 16:52:07,635][trainer.py][line:146][INFO] Epoch:[92/100]	 Train loss=0.0428774	 Vali Loss=0.0669044	 Cost time=14.9
+[2024-02-13 16:52:07,635][utils.py][line:105][INFO] EarlyStopping counter: 12 out of 100
+[2024-02-13 16:52:22,502][trainer.py][line:146][INFO] Epoch:[93/100]	 Train loss=0.0428696	 Vali Loss=0.0667986	 Cost time=14.9
+[2024-02-13 16:52:22,502][utils.py][line:105][INFO] EarlyStopping counter: 13 out of 100
+[2024-02-13 16:52:37,419][trainer.py][line:146][INFO] Epoch:[94/100]	 Train loss=0.0428430	 Vali Loss=0.0668929	 Cost time=14.9
+[2024-02-13 16:52:37,419][utils.py][line:105][INFO] EarlyStopping counter: 14 out of 100
+[2024-02-13 16:52:52,427][trainer.py][line:146][INFO] Epoch:[95/100]	 Train loss=0.0428664	 Vali Loss=0.0669524	 Cost time=15.0
+[2024-02-13 16:52:52,427][utils.py][line:105][INFO] EarlyStopping counter: 15 out of 100
+[2024-02-13 16:53:07,304][trainer.py][line:146][INFO] Epoch:[96/100]	 Train loss=0.0428174	 Vali Loss=0.0668092	 Cost time=14.9
+[2024-02-13 16:53:07,304][utils.py][line:105][INFO] EarlyStopping counter: 16 out of 100
+[2024-02-13 16:53:22,178][trainer.py][line:146][INFO] Epoch:[97/100]	 Train loss=0.0428437	 Vali Loss=0.0668665	 Cost time=14.9
+[2024-02-13 16:53:22,179][utils.py][line:105][INFO] EarlyStopping counter: 17 out of 100
+[2024-02-13 16:53:37,036][trainer.py][line:146][INFO] Epoch:[98/100]	 Train loss=0.0428341	 Vali Loss=0.0667808	 Cost time=14.9
+[2024-02-13 16:53:37,036][utils.py][line:105][INFO] EarlyStopping counter: 18 out of 100
+[2024-02-13 16:53:52,087][trainer.py][line:146][INFO] Epoch:[99/100]	 Train loss=0.0428082	 Vali Loss=0.0670650	 Cost time=15.1
+[2024-02-13 16:53:52,087][utils.py][line:105][INFO] EarlyStopping counter: 19 out of 100
+[2024-02-13 16:54:06,987][trainer.py][line:146][INFO] Epoch:[100/100]	 Train loss=0.0428686	 Vali Loss=0.0667291	 Cost time=14.9
+[2024-02-13 16:54:07,412][trainer.py][line:163][INFO] Finish training!
+[2024-02-13 16:54:07,413][trainer.py][line:219][INFO] loading model...
+[2024-02-13 16:54:08,421][utils.py][line:147][INFO] Test MSE:  191565.8125   |  Test RMSE:  437.6823   |  Test MAE:  266.6195   |  Test R2:  0.8831|
+[2024-02-13 16:54:08,633][utils.py][line:147][INFO] Test MSE:  461544.5312   |  Test RMSE:  679.3707   |  Test MAE:  405.3075   |  Test R2:  0.8714|
+[2024-02-13 16:54:08,843][utils.py][line:147][INFO] Test MSE:  123072.9531   |  Test RMSE:  350.8175   |  Test MAE:  203.0167   |  Test R2:  0.9077|
+[2024-02-13 16:54:09,060][utils.py][line:147][INFO] Test MSE:  40221.4883   |  Test RMSE:  200.5530   |  Test MAE:  135.4765   |  Test R2:  0.6692|
+[2024-02-13 16:54:09,252][utils.py][line:147][INFO] Test MSE:  19773.9922   |  Test RMSE:  140.6200   |  Test MAE:  38.3409   |  Test R2:  0.6009|
+[2024-02-13 16:54:09,253][trainer.py][line:219][INFO] loading model...
+[2024-02-13 16:54:10,183][utils.py][line:147][INFO] Test MSE:  191565.8125   |  Test RMSE:  437.6823   |  Test MAE:  266.6195   |  Test R2:  0.8831|
+[2024-02-13 16:54:10,391][utils.py][line:147][INFO] Test MSE:  461544.5312   |  Test RMSE:  679.3707   |  Test MAE:  405.3075   |  Test R2:  0.8714|
+[2024-02-13 16:54:10,614][utils.py][line:147][INFO] Test MSE:  123072.9531   |  Test RMSE:  350.8175   |  Test MAE:  203.0167   |  Test R2:  0.9077|
+[2024-02-13 16:54:10,812][utils.py][line:147][INFO] Test MSE:  40221.4883   |  Test RMSE:  200.5530   |  Test MAE:  135.4765   |  Test R2:  0.6692|
+[2024-02-13 16:54:11,003][utils.py][line:147][INFO] Test MSE:  19773.9922   |  Test RMSE:  140.6200   |  Test MAE:  38.3409   |  Test R2:  0.6009|

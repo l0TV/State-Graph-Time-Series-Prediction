@@ -1,0 +1,5 @@
+[2024-02-15 21:49:12,731][utils.py][line:147][INFO] Test MSE:  190368.2500   |  Test RMSE:  436.3121   |  Test MAE:  270.7288   |  Test R2:  0.8839|
+[2024-02-15 21:49:13,098][utils.py][line:147][INFO] Test MSE:  459459.7500   |  Test RMSE:  677.8346   |  Test MAE:  402.1769   |  Test R2:  0.8719|
+[2024-02-15 21:49:13,451][utils.py][line:147][INFO] Test MSE:  119679.9766   |  Test RMSE:  345.9479   |  Test MAE:  203.7947   |  Test R2:  0.9102|
+[2024-02-15 21:49:13,794][utils.py][line:147][INFO] Test MSE:  39257.4375   |  Test RMSE:  198.1349   |  Test MAE:  134.5554   |  Test R2:  0.6771|
+[2024-02-15 21:49:14,146][utils.py][line:147][INFO] Test MSE:  20177.7734   |  Test RMSE:  142.0485   |  Test MAE:  31.2394   |  Test R2:  0.5928|
